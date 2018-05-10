@@ -1,0 +1,21 @@
+body {
+  background-color: plum;
+  margin: 0;
+  font-family: "Palatino";
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
+nav {
+    font-size: 30px;
+    text-align: center;
+    background-color: cadetblue;
+    padding-bottom: 10px
+}
+
+img {
+  padding: 20px;
+  margin: 5px;
+  border-style: dotted;
+}
